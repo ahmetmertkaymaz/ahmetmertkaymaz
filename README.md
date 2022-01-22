@@ -30,7 +30,7 @@
 <td><a href="mailto:mertk@mrtkymz.ml">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<td><a href="https://tiktok.com/@mertkaymaz35" target="_blank">
+<td><a href="https://tiktok.com/@mert.kaymaz35" target="_blank">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
   </tr>
