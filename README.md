@@ -1,6 +1,6 @@
 <img align="right" alt="avatar" width="200" src="https://avatars.githubusercontent.com/u/76112533?v=4"> 
 
-## mrtkymz 👋  Ahmet Mert Kaymaz (A. Mert Kaymaz, Puffanee, Mert Kaymaz 35)
+<h1> mrtkymz 👋  Ahmet Mert Kaymaz <br> (A. Mert Kaymaz, Puffanee, Mert Kaymaz 35)</h1>
 
 <table class="center">
 <tr> 
