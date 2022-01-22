@@ -38,7 +38,7 @@
 <br></br>
 
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=A. Mert Kaymaz.mrtkymz)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=A.MertKaymaz.mrtkymz)](#)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrtkymz&theme=blue-green">
