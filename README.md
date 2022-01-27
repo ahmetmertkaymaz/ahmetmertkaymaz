@@ -37,7 +37,8 @@
 </table>
 <br></br>
 
-<p>Daha Fazla Bilgi İçin: <a href="https://www.mrtkymz.ml">Web siteme</a> göz atabilirsiniz.</p>
+<p>Daha Fazla Bilgi İçin: <a href="https://www.mrtkymz.ml" target="_blank">Web siteme</a> göz atabilirsiniz.</p>
+<p>For more information: <a href="https://www.mrtkymz.ml" target="_blank">to my website</a> you can browse.</p>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=A.MertKaymaz.mrtkymz)](#)
 
