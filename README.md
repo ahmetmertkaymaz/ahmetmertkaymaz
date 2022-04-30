@@ -1,4 +1,4 @@
-#✨ Hi, I am mrtkymz, Puffanee and Mert
+# ✨ Hi, I am mrtkymz, Puffanee and Mert
 
 <img align="right" alt="avatar" width="200" src="https://avatars.githubusercontent.com/u/76112533?v=4"> 
 
