@@ -5,9 +5,6 @@
 Hello, I'm Ahmet Mert. I usually code and develop HTML, CSS, PHP, MYSQL , C# etc. , I like to listen to music, I live in Turkey. I started writing with HTML 2 years ago. Now I continue to improve myself with Database, PHP, CSS, JavaScript and Cyber Security. I am also a YouTuber and Twitch Streamer. I like to make music, I play the guitar and I can remix music.
 
 <table class="center">
-<tr> 
-          Linklerim / My Links
- </tr>
 <tr>
   <td><a href="https://www.mrtkymz.gq/youtube" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -39,7 +36,6 @@ Hello, I'm Ahmet Mert. I usually code and develop HTML, CSS, PHP, MYSQL , C# etc
 </table>
 <br></br>
 
-<p>Daha Fazla Bilgi İçin: <a href="https://www.mrtkymz.ml" target="_blank">Web siteme</a> göz atabilirsiniz.</p>
 <p>For more information: <a href="https://www.mrtkymz.ml" target="_blank">to my website</a> you can browse.</p>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=A.MertKaymaz.mrtkymz)](#)
