@@ -1,6 +1,6 @@
-# ✨ Hi, I am mrtkymz, Puffanee and Ahmet Mert Kaymaz!
+# ✨ Hi! I'm Ahmet Mert Kaymaz or Puffanee, mrtkymz
 
-<img align="right" alt="avatar" width="200" src="https://avatars.githubusercontent.com/u/76112533?v=4"> 
+<img align="right" alt="AhmetMertKaymaz_avatar" width="200" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/76112533?v=4"> 
 
 Hello, I'm Ahmet Mert. I usually code and develop HTML, CSS, PHP, MYSQL , C# etc. , I like to listen to music, I live in Turkey. I started writing with HTML 2 years ago. Now I continue to improve myself with Database, PHP, CSS, JavaScript and Cyber Security. I am also a YouTuber and Twitch Streamer. I like to make music, I play the guitar and I can remix music.
 
