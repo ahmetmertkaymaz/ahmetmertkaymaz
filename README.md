@@ -36,8 +36,8 @@ Hello, I'm Ahmet Mert. I usually code and develop HTML, CSS, PHP, MYSQL , C# etc
 
 <p>For more information: <a href="https://www.mrtkymz.ml" target="_blank">to my website</a> you can browse.</p>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=A.MertKaymaz.mrtkymz)](#)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AhmetMertKaymaz.ahmetmertkaymaz)](#)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrtkymz&theme=blue-green">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetmertkaymaz&theme=blue-green">
 
