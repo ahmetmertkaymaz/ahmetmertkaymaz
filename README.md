@@ -26,7 +26,7 @@ Hello, I'm Ahmet Mert. I usually code and develop HTML, CSS, PHP, MYSQL , C# etc
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a> </tr>
   <tr>
-<td><a href="mailto:mert@mrtyazilimmedya.ga">
+<td><a href="mailto:mert@ahmetmertkaymaz.com.tr">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </a>
@@ -34,7 +34,7 @@ Hello, I'm Ahmet Mert. I usually code and develop HTML, CSS, PHP, MYSQL , C# etc
 </table>
 <br></br>
 
-<p>For more information: <a href="https://www.mrtkymz.ml" target="_blank">to my website</a> you can browse.</p>
+<p>For more information: <a href="https://www.ahmetmertkaymaz.com.tr" target="_blank">to my website</a> you can browse.</p>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AhmetMertKaymaz.ahmetmertkaymaz)](#)
 
