@@ -6,7 +6,7 @@ Hello, I'm Ahmet Mert. I usually code and develop HTML, CSS, PHP, MYSQL , C# etc
 
 <table class="center">
 <tr>
-  <td><a href="https://www.youtube.com/MertPuffaneeKaymaz" target="_blank">
+  <td><a href="https://www.youtube.com/@Puffanee" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a> 
 <td><a href="https://www.twitch.tv/puffanee" target="_blank">
