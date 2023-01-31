@@ -1,4 +1,4 @@
-# ✨ Hi! I'm Ahmet Mert Kaymaz or Puffanee, mrtkymz
+# ✨ Hi! I'm Ahmet Mert Kaymaz or Puffanee (AhMeKa)
 
 <img align="right" alt="AhmetMertKaymaz_avatar" width="200" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/76112533?v=4"> 
 
