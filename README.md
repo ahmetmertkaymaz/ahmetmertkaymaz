@@ -37,7 +37,7 @@ Hello, I'm Ahmet Mert. I usually code and develop HTML, CSS, PHP, MYSQL , C# etc
 <p>For more information: <a href="https://www.ahmetmertkaymaz.com.tr" target="_blank">to my website</a> you can browse.</p>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AhmetMertKaymaz.ahmetmertkaymaz)](#)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetmertkaymaz&layout=compact)
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmetmertkaymaz&theme=blue-green">
+![My stats](https://github-readme-stats.vercel.app/api?username=ahmetmertkaymaz&show_icons=true&count_private=true)
 
