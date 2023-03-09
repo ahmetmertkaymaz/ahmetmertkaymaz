@@ -12,7 +12,7 @@ Hello, I'm Ahmet Mert. I usually code and develop HTML, CSS, PHP, MYSQL , C# etc
 <td><a href="https://www.twitch.tv/puffanee" target="_blank">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
-<td><a href="https://discord.com/invite/CzjghmreSP" target="_blank">
+<td><a href="https://r.ahmetmertkaymaz.com.tr/discord" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> </tr>
   <tr>
