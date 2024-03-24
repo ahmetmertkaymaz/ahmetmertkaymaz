@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href="https://github.com/puffanee/puffanee-docs" target"blank_">Puffanee App Documents</a>
+[![Puffanee App Documents](https://github.com/puffanee/puffanee-docs)
 
 </div>
 
