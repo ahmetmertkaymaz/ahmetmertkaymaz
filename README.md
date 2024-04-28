@@ -29,7 +29,7 @@
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">Puffanee Apps Status</summary>
-  [Puffanee Apps Status](https://status.puffanee.net.tr)
+  If you want to see the status of my applications: https://status.puffanee.net.tr
 </details>
 
 <div align="center">
