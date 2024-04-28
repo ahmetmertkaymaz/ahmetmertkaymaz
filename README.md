@@ -34,5 +34,5 @@
 
 <div align="center">
 Buy me a coffe <3
-<a href="https://buymeacoffee.com/puffanee" target"blank_"><img src="https://github.com/puffanee/puffanee/assets/76112533/ed462683-623c-4250-ae76-7f7d40365285" size="40"></a>
+<a href="https://buymeacoffee.com/puffanee" target"blank_"><img src="https://github.com/puffanee/puffanee/assets/76112533/ed462683-623c-4250-ae76-7f7d40365285" width="100"></a>
 </div>
